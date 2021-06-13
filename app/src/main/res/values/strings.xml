@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Accessibility App</string>
+    <string name="message_to_accessibility">Your accessibility service to this app has been disabled.</string>
+</resources>
